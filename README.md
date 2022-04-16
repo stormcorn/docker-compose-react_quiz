@@ -1,4 +1,4 @@
-The original folder name is "reac_quiz"
+The original folder name is "react_quiz"
 
 # Getting Started with Create React App
 
